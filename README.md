@@ -4,6 +4,11 @@
 
 ---
 
+## 📚 StoryBoard, Mockup, UI Design
+Baca dokumentasi lengkap tentang aplikasi ini [di sini]([https://link-dokumentasi.com](https://www.canva.com/design/DAGWEksXKpQ/FUUWlC9o94d3hwuRYRB77w/edit?utm_content=DAGWEksXKpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)).
+
+---
+
 ## ✨ **Fitur Utama**
 
 1. **🌟 Space Screen (Halaman Pembuka)**
